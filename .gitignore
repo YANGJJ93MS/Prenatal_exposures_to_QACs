@@ -1,0 +1,12 @@
+# figures
+*.png
+
+# csv files
+*.csv
+
+# temp_script
+temp_script/
+
+# Python virtual environment if you use one
+venv/
+env/
