@@ -1,8 +1,9 @@
 # figures
 *.png
 
-# csv files
+# csv files - block everywhere EXCEPT the data folder
 *.csv
+!data/*.csv
 
 # temp_script
 temp_script/
